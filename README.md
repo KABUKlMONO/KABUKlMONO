@@ -13,7 +13,7 @@
 
 <div>
  <p align="center">
-  <img src="https://files.catbox.moe/7l3ka5.png" width="500" height="500" alt="character">
+  <img src="https://files.catbox.moe/7l3ka5.png" width="400" height="400" alt="character">
 </p>
 
 <!---
